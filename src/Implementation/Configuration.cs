@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using Genyman.Core;
+﻿using System.Collections.Generic;
 
-namespace Stefandevo.Genyman.Logo.Implementation
+namespace Stefandevo.Genyman.Loco.Implementation
 {
 	public class Configuration
 	{

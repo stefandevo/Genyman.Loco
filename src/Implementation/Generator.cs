@@ -4,7 +4,7 @@ using System.Text;
 using Genyman.Core;
 using ServiceStack;
 
-namespace Stefandevo.Genyman.Logo.Implementation
+namespace Stefandevo.Genyman.Loco.Implementation
 {
 	public class Generator : GenymanGenerator<Configuration>
 	{

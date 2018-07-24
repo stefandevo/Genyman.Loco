@@ -1,7 +1,7 @@
-﻿using Stefandevo.Genyman.Logo.Implementation;
-using Genyman.Core;
+﻿using Genyman.Core;
+using Stefandevo.Genyman.Loco.Implementation;
 
-namespace Stefandevo.Genyman.Logo
+namespace Stefandevo.Genyman.Loco
 {
 	internal class Program
 	{

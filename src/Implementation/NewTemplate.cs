@@ -1,4 +1,4 @@
-﻿namespace Stefandevo.Genyman.Logo.Implementation
+﻿namespace Stefandevo.Genyman.Loco.Implementation
 {
 	public class NewTemplate : Configuration
 	{

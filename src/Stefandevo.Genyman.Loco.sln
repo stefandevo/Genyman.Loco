@@ -1,8 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logo", "Stefandevo.Genyman.Logo.csproj", "{75EC7FB0-9F06-466B-A107-22858C062982}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genyman.Core", "..\..\..\genyman\core\src\Genyman.Core.csproj", "{65E3B1A8-6677-4E2D-9883-5EAEBA6DFA0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loco", "Stefandevo.Genyman.Loco.csproj", "{75EC7FB0-9F06-466B-A107-22858C062982}"
 EndProject
 
 Global
@@ -15,9 +13,5 @@ Global
 		{75EC7FB0-9F06-466B-A107-22858C062982}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75EC7FB0-9F06-466B-A107-22858C062982}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75EC7FB0-9F06-466B-A107-22858C062982}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65E3B1A8-6677-4E2D-9883-5EAEBA6DFA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65E3B1A8-6677-4E2D-9883-5EAEBA6DFA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65E3B1A8-6677-4E2D-9883-5EAEBA6DFA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65E3B1A8-6677-4E2D-9883-5EAEBA6DFA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

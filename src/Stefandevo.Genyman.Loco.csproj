@@ -4,7 +4,7 @@
 		<IsPackable>true</IsPackable>
 		<PackAsTool>true</PackAsTool>
 		<TargetFramework>netcoreapp2.1</TargetFramework>
-		<AssemblyName>Stefandevo.Genyman.Logo</AssemblyName>
+		<AssemblyName>Stefandevo.Genyman.Loco</AssemblyName>
 		<Version>1.0.0</Version>
 		<Description>Genyman generator for transforming Loco https://localise.biz/ input to json, resx, code, ...</Description>
 		<PackageTags>Genyman</PackageTags>
@@ -12,7 +12,7 @@
 		<PackageIconUrl>https://raw.githubusercontent.com/genyman/genyman/master/graphics/genyman64.png</PackageIconUrl>
 	</PropertyGroup>
 	<ItemGroup>
-		<!--<PackageReference Include="Genyman.Core" Version="0.*" />-->
+		<PackageReference Include="Genyman.Core" Version="0.0.21" />
 	</ItemGroup>
 	<ItemGroup>
 		<Compile Remove="Templates\**" />
@@ -20,8 +20,5 @@
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 		<Folder Include="Templates" />
-	</ItemGroup>
-	<ItemGroup>
-	  <ProjectReference Include="..\..\..\genyman\core\src\Genyman.Core.csproj" />
 	</ItemGroup>
 </Project>
