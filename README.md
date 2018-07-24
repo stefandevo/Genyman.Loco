@@ -9,7 +9,7 @@ Basic idea of this generator:
 - you can specify a fallback language
 - translated files will return (including the master)
 
-Create a new configuration file:
+Use [genyman](https://genyman.github.io/docs/) to create a new configuration template:
 
 ```
 genyman new stefandevo.genyman.loco
