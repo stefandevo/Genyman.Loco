@@ -28,7 +28,9 @@ Sample configuration file:
 		"masterFile": "en-US.json",
 		"masterLanguageId": "en",
 		"fallbackLanguageId": "en",
-		"languages": [{
+		"languages": 
+		[
+			{
 				"id": "en",
 				"fileName": "en-US.json"
 			},
