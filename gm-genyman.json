@@ -1,0 +1,13 @@
+{
+    "genyman": {
+        "packageId": "Genyman",
+        "version": "",
+        "nugetSource": "",
+        "info": "This is a Genyman configuration file - https://genyman.github.io/docs/"
+    },
+    "configuration": {
+        "prefix": "Stefandevo",
+        "toolName": "Logo",
+        "description": "Genyman generator for transforming Loco https://localise.biz/ input to json, resx, code, ..."
+    }
+}
