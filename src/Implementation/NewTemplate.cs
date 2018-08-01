@@ -1,6 +1,6 @@
 ﻿namespace Stefandevo.Genyman.Loco.Implementation
 {
-	public class NewTemplate : Configuration
+	internal class NewTemplate : Configuration
 	{
 		public NewTemplate()
 		{

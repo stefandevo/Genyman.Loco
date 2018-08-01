@@ -6,7 +6,7 @@ using ServiceStack;
 
 namespace Stefandevo.Genyman.Loco.Implementation
 {
-	public class Generator : GenymanGenerator<Configuration>
+	internal class Generator : GenymanGenerator<Configuration>
 	{
 		public override void Execute()
 		{
