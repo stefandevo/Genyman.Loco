@@ -3,7 +3,7 @@ using Genyman.Core;
 
 namespace Stefandevo.Genyman.Loco.Implementation
 {
-	[Documentation(Remarks = "https://github.com/stefandevo/Genyman.Loco")]
+	[Documentation(Source = "https://github.com/stefandevo/Genyman.Loco")]
 	public class Configuration
 	{
 		[Description("Get an API key from the portal")]
